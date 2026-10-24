@@ -5,21 +5,18 @@ Plan izvođenja vežbi je sledeći:
 
 | # | Tema | Datum  |
 | --- | --- | --- |
-| 1 | Nema vežbi | 05.11. |
-| 2 | Nema vežbi | 12.11. |
-| 3 | Nema vežbi - kasni upis studenata | 19.11. |
-| 4 | Nema vežbi - kasni upis studenata | 26.11. |
-| 5 | Upoznavanje sa projektom, [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [Git - branching i GitFlow](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 03.12. |
-| 6 | [Python podsećanje](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) | 10.12. |
-| 7 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Docker Compose](https://github.com/vanjamijatov/UKS-DjangoProductionSetup) i UML dijagram klasa modela | 17.12. |
-| 8 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 24.12. |
-| 9 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 31.12. |
-| 10 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 07.01. |
-| 11 | [Django auth, Django tests, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest), [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 14.01. |
-| 12 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 21.01. |
-| 13 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 28.01. |
-| 14 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 04.02. |
-| 15 | Odbrana projekta - prvi rok | 11.02. |
+| 1 | Upoznavanje sa projektom, [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [Git - branching i GitFlow](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 28.10; 30.10 |
+| 2 | [Python podsećanje](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) | 04.11; 06.11 |
+| 3 | Dan primirja - nenastavni dan | 11.11; 13.11 |
+| 4 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Docker Compose](https://github.com/vanjamijatov/UKS-DjangoProductionSetup) i UML dijagram klasa modela | 18.11; 20.11 |
+| 5 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 25.11; 27.11 |
+| 6 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 02.12; 04.12 |
+| 7 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 09.12; 11.12 |
+| 8 | [Django auth, Django tests, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest), [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 16.12; 18.12 |
+| 9 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 23.12; 25.12 |
+| 10 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 30.12; 01.01 |
+| 11 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 06.01; 08.01 |
+| 12 | Odbrana projekta - prvi rok (nije jos uvek fiksno) | 13.01; 15.01 |
 
 **Napomena:** Plan izvođenja vežbi je podložan promenama u toku semestra.
 
